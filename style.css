@@ -1,0 +1,14 @@
+main {
+    background: gray;
+    margin: 0;
+    border: 2px black solid;
+    font-family: 'Libre Caslon Display', serif;
+}
+header {
+    background: lightblue;
+    margin: 0;
+    font-family: 'Libre Caslon Display', serif;
+}
+hr {
+    margin: 0;
+}
